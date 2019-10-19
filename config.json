@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingspark",
+    "prod_uri": "mysql://root:@localhost/codingspark",
+    "fb_url": "https://facebook.com/codingspark",
+    "tw_url": "https://twitter.com/codingspark",
+    "gh_url": "https://github.com/codingspark",
+    "blog_name": "Coding Spark",
+    "tag_line": "A Blog liked by Programmers",
+    "gmail-user": "put_your_email_here",
+    "gmail-password": "put_your_password_here",
+    "about_text": "Hi, my name is Manish and I am a programmer and I'm inclined towards learning new technologies.",
+    "no_of_posts": 3,
+    "login_image": "login.jpg",
+    "admin_user": "put_your_admin_name_here",
+    "admin_password": "put_your_admin_password_here",
+    "upload_location": "D:\\Learner\\Flask\\Flask_tut\\uploaded"
+  }
+}
